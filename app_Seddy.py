@@ -19,6 +19,6 @@ elif operation == "/":
     else:
         result = no1 / no2
 else:
-    result = "Not available"
+    result = "Operation not available."
 
 print("Result: ", result)
